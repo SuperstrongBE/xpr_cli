@@ -1,3 +1,5 @@
+//TODO explore https://github.com/gzuidhof/tygo for Go compatible TS scheme generation
+
 package gentypes
 
 import (
